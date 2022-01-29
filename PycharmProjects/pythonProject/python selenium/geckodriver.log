@@ -1,0 +1,72 @@
+1641520198897	geckodriver	INFO	Listening on 127.0.0.1:58256
+1641532875642	geckodriver	INFO	Listening on 127.0.0.1:58546
+1641533061970	geckodriver	INFO	Listening on 127.0.0.1:58557
+1641534065403	geckodriver	INFO	Listening on 127.0.0.1:58734
+1641535594000	geckodriver	INFO	Listening on 127.0.0.1:58831
+1641536226471	geckodriver	INFO	Listening on 127.0.0.1:58876
+1641537590070	geckodriver	INFO	Listening on 127.0.0.1:58929
+1641538778204	geckodriver	INFO	Listening on 127.0.0.1:59370
+1641562550533	geckodriver	INFO	Listening on 127.0.0.1:60580
+1641563977499	geckodriver	INFO	Listening on 127.0.0.1:60936
+1641563980541	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60937" "-no-remote" "-profile" "C:\\Users\\bhama\\AppData\\Local\\Temp\\rust_mozprofileofe6UY"
+1641563980848	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bhama\\AppData\\Local\\Temp\\rust_mozprofileofe6UY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60937/devtools/browser/fc352725-33b2-4d90-9bb5-71d26f3cb002
+1641563983686	Marionette	INFO	Listening on port 60942
+1641563984134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1641564907467	Marionette	INFO	Stopped listening on port 60942
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "61091" "-no-remote" "-profile" "C:\\Users\\bhama\\AppData\\Local\\Temp\\rust_mozprofilexQBhj6"
+1641564890452	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bhama\\AppData\\Local\\Temp\\rust_mozprofilexQBhj6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61091/devtools/browser/823b06a4-abd4-49b3-95df-b5b361ae4d03
+1641564892904	Marionette	INFO	Listening on port 61096
+1641564893280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641564902239	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2315:11
+1641564904855	Marionette	INFO	Stopped listening on port 61096
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1641564954468	geckodriver	INFO	Listening on 127.0.0.1:61178
+1641564957518	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61179" "-no-remote" "-profile" "C:\\Users\\bhama\\AppData\\Local\\Temp\\rust_mozprofileYw6MqP"
+1641564957894	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bhama\\AppData\\Local\\Temp\\rust_mozprofileYw6MqP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61179/devtools/browser/e6ef7f37-332c-4caa-81c6-0dbd743dcd53
+1641564960439	Marionette	INFO	Listening on port 61184
+1641564960703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641564969018	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2315:11
+1641565024074	Marionette	INFO	Stopped listening on port 61184
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641567289402	geckodriver	INFO	Listening on 127.0.0.1:50062
+1641567292474	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50063" "-no-remote" "-profile" "C:\\Users\\bhama\\AppData\\Local\\Temp\\rust_mozprofile7vV47N"
+1641567294070	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bhama\\AppData\\Local\\Temp\\rust_mozprofile7vV47N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50063/devtools/browser/f675d6a7-5f73-4fae-bd8d-00699bd2af19
+1641567297294	Marionette	INFO	Listening on port 50068
+1641567297331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1641568240270	Marionette	INFO	Stopped listening on port 50068
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1641642168934	geckodriver	INFO	Listening on 127.0.0.1:50546
+1641642172006	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50547" "-no-remote" "-profile" "C:\\Users\\bhama\\AppData\\Local\\Temp\\rust_mozprofileqyB0ZK"
+1641642172596	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bhama\\AppData\\Local\\Temp\\rust_mozprofileqyB0ZK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50547/devtools/browser/c15c8085-07f3-46ea-82e2-0ecd12bd1225
+1641642175612	Marionette	INFO	Listening on port 50552
+1641642175710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641642193643	Marionette	INFO	Stopped listening on port 50552
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+

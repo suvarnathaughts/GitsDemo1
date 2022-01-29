@@ -1,0 +1,87 @@
+2022-01-26 21:45:59,150 : INFO : test_e2e : getting all the card titles
+2022-01-26 21:45:59,501 : INFO : test_e2e : entering country name as ind 
+2022-01-26 21:46:04,883 : INFO : test_e2e : text recieved from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-26 21:49:50,699 : INFO : test_formsubmission : first name isRahul
+2022-01-26 21:49:51,187 : INFO : test_formsubmission : first name isAnshika
+2022-01-26 21:49:51,187 : INFO : test_formsubmission : first name isAnshika
+2022-01-26 21:49:54,218 : INFO : test_e2e : getting all the card titles
+2022-01-26 21:49:54,519 : INFO : test_e2e : entering country name as ind 
+2022-01-26 21:49:59,848 : INFO : test_e2e : text recieved from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-26 21:52:01,693 : INFO : test_formsubmission : first name isRahul
+2022-01-26 21:52:02,149 : INFO : test_formsubmission : first name isAnshika
+2022-01-26 21:52:02,149 : INFO : test_formsubmission : first name isAnshika
+2022-01-26 21:52:05,678 : INFO : test_e2e : getting all the card titles
+2022-01-26 21:52:05,951 : INFO : test_e2e : entering country name as ind 
+2022-01-26 21:52:11,302 : INFO : test_e2e : text recieved from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-26 22:11:19,593 : INFO : test_e2e : getting all the card titles
+2022-01-26 22:11:19,795 : INFO : test_e2e : entering country name as ind 
+2022-01-26 22:11:25,168 : INFO : test_e2e : text recieved from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-27 22:14:45,327 : INFO : test_formsubmission : first name isRahul
+2022-01-27 22:14:45,856 : INFO : test_formsubmission : first name isAnshika
+2022-01-27 22:14:45,856 : INFO : test_formsubmission : first name isAnshika
+2022-01-27 22:14:49,776 : INFO : test_e2e : getting all the card titles
+2022-01-27 22:14:50,070 : INFO : test_e2e : entering country name as ind 
+2022-01-27 22:14:55,433 : INFO : test_e2e : text recieved from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-27 22:18:01,655 : INFO : test_formsubmission : first name isRahul
+2022-01-27 22:18:02,233 : INFO : test_formsubmission : first name isAnshika
+2022-01-27 22:18:02,233 : INFO : test_formsubmission : first name isAnshika
+2022-01-27 22:18:07,613 : INFO : test_e2e : getting all the card titles
+2022-01-27 22:18:07,991 : INFO : test_e2e : entering country name as ind 
+2022-01-27 22:18:13,361 : INFO : test_e2e : text recieved from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-27 22:23:16,923 : INFO : test_formsubmission : first name isRahul
+2022-01-27 22:23:17,490 : INFO : test_formsubmission : first name isAnshika
+2022-01-27 22:23:17,490 : INFO : test_formsubmission : first name isAnshika
+2022-01-27 22:23:21,987 : INFO : test_e2e : getting all the card titles
+2022-01-27 22:23:22,357 : INFO : test_e2e : entering country name as ind 
+2022-01-27 22:23:27,738 : INFO : test_e2e : text recieved from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-27 22:26:15,974 : INFO : test_formsubmission : first name isRahul
+2022-01-27 22:26:16,579 : INFO : test_formsubmission : first name isAnshika
+2022-01-27 22:26:16,579 : INFO : test_formsubmission : first name isAnshika
+2022-01-27 22:26:20,563 : INFO : test_e2e : getting all the card titles
+2022-01-27 22:26:20,941 : INFO : test_e2e : entering country name as ind 
+2022-01-27 22:26:26,385 : INFO : test_e2e : text recieved from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-27 22:30:50,425 : INFO : test_formsubmission : first name isRahul
+2022-01-27 22:30:50,990 : INFO : test_formsubmission : first name isAnshika
+2022-01-27 22:30:50,990 : INFO : test_formsubmission : first name isAnshika
+2022-01-27 22:30:55,343 : INFO : test_e2e : getting all the card titles
+2022-01-27 22:30:55,760 : INFO : test_e2e : entering country name as ind 
+2022-01-27 22:31:01,201 : INFO : test_e2e : text recieved from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-27 22:33:08,642 : INFO : test_formsubmission : first name isRahul
+2022-01-27 22:33:09,180 : INFO : test_formsubmission : first name isAnshika
+2022-01-27 22:33:09,180 : INFO : test_formsubmission : first name isAnshika
+2022-01-27 22:33:13,889 : INFO : test_e2e : getting all the card titles
+2022-01-27 22:33:14,239 : INFO : test_e2e : entering country name as ind 
+2022-01-27 22:33:19,639 : INFO : test_e2e : text recieved from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-27 22:34:44,693 : INFO : test_formsubmission : first name isRahul
+2022-01-27 22:34:45,214 : INFO : test_formsubmission : first name isAnshika
+2022-01-27 22:34:45,214 : INFO : test_formsubmission : first name isAnshika
+2022-01-27 22:34:49,704 : INFO : test_e2e : getting all the card titles
+2022-01-27 22:34:50,057 : INFO : test_e2e : entering country name as ind 
+2022-01-27 22:34:55,441 : INFO : test_e2e : text recieved from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-28 11:45:08,398 : INFO : test_formsubmission : first name isRahul
+2022-01-28 11:45:09,508 : INFO : test_formsubmission : first name isAnshika
+2022-01-28 11:45:09,508 : INFO : test_formsubmission : first name isAnshika
+2022-01-28 11:45:20,087 : INFO : test_e2e : getting all the card titles
+2022-01-28 11:45:20,892 : INFO : test_e2e : entering country name as ind 
+2022-01-28 11:45:26,771 : INFO : test_e2e : text recieved from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-28 11:50:10,264 : INFO : test_formsubmission : first name isRahul
+2022-01-28 11:50:10,804 : INFO : test_formsubmission : first name isAnshika
+2022-01-28 11:50:10,804 : INFO : test_formsubmission : first name isAnshika
+2022-01-28 11:50:15,020 : INFO : test_e2e : getting all the card titles
+2022-01-28 11:50:15,364 : INFO : test_e2e : entering country name as ind 
+2022-01-28 11:50:20,737 : INFO : test_e2e : text recieved from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-28 22:04:44,913 : INFO : test_formsubmission : first name isRahul
+2022-01-28 22:05:14,467 : INFO : test_formsubmission : first name isRahul

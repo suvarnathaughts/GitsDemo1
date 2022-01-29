@@ -1,0 +1,21 @@
+1643350500640	geckodriver	INFO	Listening on 127.0.0.1:63628
+1643350503711	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63629" "-no-remote" "-profile" "C:\\Users\\bhama\\AppData\\Local\\Temp\\rust_mozprofileHe0PK1"
+1643350504367	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bhama\\AppData\\Local\\Temp\\rust_mozprofileHe0PK1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63629/devtools/browser/7ecfd9ac-271d-452a-bb29-d6ed312c7032
+1643350507069	Marionette	INFO	Listening on port 64530
+1643350507421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643350510565	Marionette	INFO	Stopped listening on port 64530
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643350511209	geckodriver	INFO	Listening on 127.0.0.1:64590
+1643350514314	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64591" "-no-remote" "-profile" "C:\\Users\\bhama\\AppData\\Local\\Temp\\rust_mozprofilep4aBV6"
+1643350514711	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bhama\\AppData\\Local\\Temp\\rust_mozprofilep4aBV6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64591/devtools/browser/bcfb3ac3-86a3-47d5-96ba-7d15d5316dc3
+1643350517085	Marionette	INFO	Listening on port 64596
+1643350517491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1643350526776	Marionette	INFO	Stopped listening on port 64596
