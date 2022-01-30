@@ -16,6 +16,7 @@ print(sheet.max_row)
 print(sheet.max_column)
 # if we want value of specific cell by shortcut e.g. A5 means 5th row 1st column =t4
 print(sheet['A5'].value)
+print(sheet['B1'].value)
 # we will see how to use for loop
 # to get 1st column value
 #for i in range(1, sheet.max_row+1):
